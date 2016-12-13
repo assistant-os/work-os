@@ -1,0 +1,24 @@
+{
+  "name": "work-os",
+  "version": "0.1.0",
+  "description": "Add new commands optimized for work for assistant-os",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assistant-os/work-os.git"
+  },
+  "keywords": [
+    "work",
+    "os",
+    "assistant"
+  ],
+  "author": "Thibault Friedrich <tf@elqui.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assistant-os/work-os/issues"
+  },
+  "homepage": "https://github.com/assistant-os/work-os#readme"
+}
